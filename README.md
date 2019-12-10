@@ -1,6 +1,8 @@
 # sre-fundamentals
 
-## Host metrics
+## Metrics
+
+### Host metrics
 
 - CPU usage	
 - Load average
@@ -13,7 +15,7 @@ https://docs.appsignal.com/metrics/host.html
 https://micrometer.io/docs/concepts
 https://www.callicoder.com/spring-boot-actuator-metrics-monitoring-dashboard-prometheus-grafana/
 
-## JVM Metrics
+### JVM Metrics
 
 - Run count and elapsed times for all supported garbage collectors
 - Memory usage for all memory pools, including off-heap memory
