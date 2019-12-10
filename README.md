@@ -11,9 +11,11 @@
 - Disk IO
 - Network traffic
 
-https://docs.appsignal.com/metrics/host.html
-https://micrometer.io/docs/concepts
-https://www.callicoder.com/spring-boot-actuator-metrics-monitoring-dashboard-prometheus-grafana/
+**Links:**
+
+- https://docs.appsignal.com/metrics/host.html
+- https://micrometer.io/docs/concepts
+- https://www.callicoder.com/spring-boot-actuator-metrics-monitoring-dashboard-prometheus-grafana/
 
 ### JVM Metrics
 
@@ -22,6 +24,8 @@ https://www.callicoder.com/spring-boot-actuator-metrics-monitoring-dashboard-pro
 - File descriptor usage
 
 ![](https://imgix.datadoghq.com/img/blog/java-runtime-monitoring-with-jvm-metrics/jvm-runtime-monitoring-runtime-metrics-dashboard.png?auto=format&w=1140&dpr=2)
+
+**Links:**
 
 https://metrics.dropwizard.io/3.1.0/manual/jvm/
 https://www.datadoghq.com/blog/java-runtime-monitoring-with-jvm-metrics/
