@@ -10,6 +10,8 @@
 - Network traffic
 
 https://docs.appsignal.com/metrics/host.html
+https://micrometer.io/docs/concepts
+https://www.callicoder.com/spring-boot-actuator-metrics-monitoring-dashboard-prometheus-grafana/
 
 ## JVM Metrics
 
