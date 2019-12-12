@@ -30,3 +30,9 @@
 - https://metrics.dropwizard.io/3.1.0/manual/jvm/
 - https://www.datadoghq.com/blog/java-runtime-monitoring-with-jvm-metrics/
 - https://devcenter.heroku.com/articles/language-runtime-metrics-jvm
+
+
+## Tools
+
+- https://github.com/jiaqi/jmxterm
+- https://github.com/prometheus/jmx_exporter
