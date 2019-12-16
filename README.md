@@ -31,6 +31,21 @@
 - https://www.datadoghq.com/blog/java-runtime-monitoring-with-jvm-metrics/
 - https://devcenter.heroku.com/articles/language-runtime-metrics-jvm
 
+### App
+
+- memory usage
+- garbage collection
+- thread usage
+- request throughout
+- number of sessions
+- response time
+- database connection pool
+- error rates
+- uptime
+
+**Links:**
+
+- https://stackify.com/tomcat-performance-monitoring/
 
 ## Tools
 
