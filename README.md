@@ -31,7 +31,7 @@
 - https://www.datadoghq.com/blog/java-runtime-monitoring-with-jvm-metrics/
 - https://devcenter.heroku.com/articles/language-runtime-metrics-jvm
 
-### App
+### App Metrics
 
 - memory usage
 - garbage collection
